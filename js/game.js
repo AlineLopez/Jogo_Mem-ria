@@ -3,17 +3,18 @@ const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 
 const characters = [
-  'beth',
-  'jerry',
-  'jessica',
-  'morty',
-  'pessoa-passaro',
-  'pickle-rick',
-  'rick',
-  'summer',
-  'meeseeks',
-  'scroopy',
+  'gato_almofada',
+  'gato_aniversario',
+  'gato_banho',
+  'gato_banho',
+  'gato_branco',
+  'gato_comilao',
+  'gato_ditado',
+  'gato_gamer',
+  'gato_violino',
+  'gato_monalisa',
 ];
+
 
 const createElement = (tag, className) => {
     const element = document.createElement(tag);
@@ -88,7 +89,8 @@ const createElement = (tag, className) => {
     const front = createElement('div', 'face front');
     const back = createElement('div', 'face back');
   
-    front.style.backgroundImage = `url('../images/${character}.png')`;
+    front.style.backgroundImage = `url('../images/${character}.jpg')`;
+    // ../images/${character}.jpg
   
     card.appendChild(front);
     card.appendChild(back);
