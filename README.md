@@ -83,6 +83,10 @@ const loadGame = () => {
 tela 1
 ![tela 1](/images/tela1.png)
 
+tela2
+![tela 2](/images/tela2.png)
+
+
 
 
   ## Referências
