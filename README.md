@@ -79,12 +79,11 @@ const loadGame = () => {
   ## Como Rodar o Código
   Baixe o código e abra o arquivo **_index.html_** no seu navegador 
 
-  ## Imagens da Tela
-tela 1
+  ## Imagens da Tela Principal
+tela 
 ![tela 1](/images/tela1.png)
 
-tela2
-![tela 2](/images/tela2.png)
+
 
 
 
