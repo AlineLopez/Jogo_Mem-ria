@@ -9,7 +9,7 @@ const characters = [
   'gato_deitado',
   'gato_branco',
   'gato_comilao',
-  'gato_ditado',
+  'gato_fantasma',
   'gato_gamer',
   'gato_violino',
   'gato_monalisa',
