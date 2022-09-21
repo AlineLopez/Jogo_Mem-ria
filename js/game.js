@@ -6,7 +6,7 @@ const characters = [
   'gato_almofada',
   'gato_aniversario',
   'gato_banho',
-  'gato_banho',
+  'gato_deitado',
   'gato_branco',
   'gato_comilao',
   'gato_ditado',
