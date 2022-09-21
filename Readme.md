@@ -1,4 +1,3 @@
-# Jogo_Mem-ria
 # Jogo de Memória 
 Esse projeto é um jogo de mémoria sobre gatinhos, Cada participante deve ou apenas um jogador, na sua vez,virar duas peças. Caso as figuras sejam iguais, as duas cartas permanecem viradas. Se forem peças diferentes, são viradas novamente, e sendo passada a vez ao participante seguinte.
 
