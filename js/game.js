@@ -22,7 +22,7 @@ const createElement = (tag, className) => {
     return element;
   }
   
-  let firstCard = 'oi';
+  let firstCard = '';
   let secondCard = '';
   
   const checkEndGame = () => {
